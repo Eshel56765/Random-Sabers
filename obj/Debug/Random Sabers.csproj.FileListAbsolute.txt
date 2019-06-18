@@ -1,0 +1,302 @@
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\obj\Debug\Random Sabers.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\obj\Debug\Random Sabers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\Random Sabers.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\Random Sabers.pdb
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\0Harmony.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\Assembly-CSharp.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\CustomSaber.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\IllusionInjector.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\IllusionPlugin.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\Mono.Data.Sqlite.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\Mono.Posix.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\Mono.Security.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\Mono.WebBrowser.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.BaselibModule.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.CloudWebServicesModule.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.FacebookModule.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.SpatialTrackingModule.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.StyleSheetsModule.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.TimelineModule.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.TLSModule.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.UI.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.UmbraModule.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.UNETModule.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.WebModule.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\TextMeshPro-1.0.55.2017.1.0b12.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\Zenject.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\Zenject-usage.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\Ookii.Dialogs.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\BeatSaberCustomUI.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\nunit.framework.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\IllusionInjector.pdb
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\IllusionPlugin.pdb
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\IllusionPlugin.xml
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.xml
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.AccessibilityModule.xml
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.AIModule.xml
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.AnimationModule.xml
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.ARModule.xml
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.AssetBundleModule.xml
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.AudioModule.xml
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.BaselibModule.xml
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.ClothModule.xml
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.CloudWebServicesModule.xml
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.ClusterInputModule.xml
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.ClusterRendererModule.xml
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.CoreModule.xml
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.CrashReportingModule.xml
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.DirectorModule.xml
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.FacebookModule.xml
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.GameCenterModule.xml
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.GridModule.xml
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.HotReloadModule.xml
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.ImageConversionModule.xml
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.IMGUIModule.xml
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.InputModule.xml
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.JSONSerializeModule.xml
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.ParticleSystemModule.xml
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.Physics2DModule.xml
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.PhysicsModule.xml
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.SharedInternalsModule.xml
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.SpatialTrackingModule.xml
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.SpriteMaskModule.xml
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.SpriteShapeModule.xml
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.StyleSheetsModule.xml
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.SubstanceModule.xml
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.TerrainModule.xml
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.TextRenderingModule.xml
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.TilemapModule.xml
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.TimelineModule.xml
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.TLSModule.xml
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.UIElementsModule.xml
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.UIModule.xml
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.UmbraModule.xml
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.UNETModule.xml
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.UnityConnectModule.xml
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.VehiclesModule.xml
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.VideoModule.xml
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.VRModule.xml
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.WebModule.xml
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.WindModule.xml
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Debug\UnityEngine.XRModule.xml
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\obj\Debug\Random Sabers.csproj.CopyComplete
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\obj\Debug\Random Sabers.dll
+C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\obj\Debug\Random Sabers.pdb
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\Random Sabers.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\Random Sabers.pdb
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\Assembly-CSharp-firstpass.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\Assembly-CSharp.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\BeatSaberCustomUI.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\CustomSaber.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\IPA.Loader.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\Mono.Data.Sqlite.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\Mono.Posix.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\Mono.Security.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\Mono.WebBrowser.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\SemVer.1.2.0.0.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.AccessibilityModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.AIModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.AnimationModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.ARModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.AssetBundleModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.AudioModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.BaselibModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.ClothModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.ClusterInputModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.ClusterRendererModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.CoreModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.CrashReportingModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.DirectorModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.GameCenterModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.GridModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.HotReloadModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.ImageConversionModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.IMGUIModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.InputModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.JSONSerializeModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.Networking.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.ParticleSystemModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.Physics2DModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.PhysicsModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.SharedInternalsModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.SpatialTracking.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.SpriteMaskModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.SpriteShapeModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.StyleSheetsModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.SubstanceModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.TerrainModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.TestRunner.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.TextRenderingModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.TilemapModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.Timeline.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.TimelineModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.TLSModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.UI.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.UIElementsModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.UIModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.UmbraModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.UNETModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.UnityConnectModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.VehiclesModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.VideoModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.VRModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.WindModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.XRModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\Zenject.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\Unity.TextMeshPro.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\Oculus.VR.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\Zenject-usage.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\Polyglot.Scripts.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\IPA.Injector.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\Ookii.Dialogs.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\CustomColors.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.LocalizationModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.StreamingModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.VFXModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.TextCoreModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\nunit.framework.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\BeatSaberCustomUI.xml
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\IllusionInjector.pdb
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\IllusionPlugin.pdb
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\IllusionPlugin.xml
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\IPA.Loader.pdb
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\IPA.Loader.xml
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.xml
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.AccessibilityModule.xml
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.AIModule.xml
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.AnimationModule.xml
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.ARModule.xml
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.AssetBundleModule.xml
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.AudioModule.xml
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.BaselibModule.xml
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.ClothModule.xml
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.CloudWebServicesModule.xml
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.ClusterInputModule.xml
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.ClusterRendererModule.xml
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.CoreModule.xml
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.CrashReportingModule.xml
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.DirectorModule.xml
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.FacebookModule.xml
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.GameCenterModule.xml
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.GridModule.xml
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.HotReloadModule.xml
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.ImageConversionModule.xml
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.IMGUIModule.xml
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.InputModule.xml
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.JSONSerializeModule.xml
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.ParticleSystemModule.xml
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.Physics2DModule.xml
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.PhysicsModule.xml
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.SharedInternalsModule.xml
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.SpriteMaskModule.xml
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.SpriteShapeModule.xml
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.StyleSheetsModule.xml
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.SubstanceModule.xml
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.TerrainModule.xml
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.TextRenderingModule.xml
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.TilemapModule.xml
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.TimelineModule.xml
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.TLSModule.xml
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.UIElementsModule.xml
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.UIModule.xml
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.UmbraModule.xml
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.UNETModule.xml
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.UnityConnectModule.xml
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.VehiclesModule.xml
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.VideoModule.xml
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.VRModule.xml
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.WindModule.xml
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.XRModule.xml
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\IPA.Injector.pdb
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.LocalizationModule.xml
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.StreamingModule.xml
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.VFXModule.xml
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.TextCoreModule.xml
+D:\dev\Beat Saber Mods\Random Sabers\obj\Debug\Random Sabers.csprojAssemblyReference.cache
+D:\dev\Beat Saber Mods\Random Sabers\obj\Debug\Random Sabers.csproj.CoreCompileInputs.cache
+D:\dev\Beat Saber Mods\Random Sabers\obj\Debug\Random Sabers.csproj.CopyComplete
+D:\dev\Beat Saber Mods\Random Sabers\obj\Debug\Random Sabers.dll
+D:\dev\Beat Saber Mods\Random Sabers\obj\Debug\Random Sabers.pdb
