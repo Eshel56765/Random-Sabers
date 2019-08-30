@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Random Sabers</name>
+    </assembly>
+    <members>
+        <member name="T:RandomSabers.Plugin">
+            <summary>
+            This class is in charge of the plugin behavior. 
+            <para>
+            To check if this plugin is present in other plugins, use the #IF RandomSabers #endif block. 
+            </para>
+            </summary>
+        </member>
+        <member name="P:RandomSabers.Plugin.PluginName">
+            <summary>
+            The Name of the plugin. Returns "Random Sabers Plugin".
+            </summary>
+        </member>
+        <member name="P:RandomSabers.Plugin.PluginVersion">
+            <summary>
+            The current version of the plugin. 
+            </summary>
+        </member>
+        <member name="F:RandomSabers.Plugin.MenuSceneName">
+            <summary>
+            The name of the in-game menu scene. 
+            </summary>
+        </member>
+        <member name="F:RandomSabers.Plugin.GameSceneName">
+            <summary>
+            The name of the in-game play scene. 
+            </summary>
+        </member>
+        <member name="P:RandomSabers.Plugin.SabersFolderPath">
+            <summary>
+            The absolute path to the CustomSabers folder (including "CustomSabers/"). 
+            </summary>
+        </member>
+        <member name="P:RandomSabers.Plugin.AllSaberNames">
+            <summary>
+            Returns an array of all the names of the saber files, without the preceding path to the game folder. 
+            </summary>
+        </member>
+        <member name="P:RandomSabers.Plugin.SaberCount">
+            <summary>
+            The amount of sabers present. 
+            </summary>
+        </member>
+        <member name="P:RandomSabers.Plugin.LastSelectedSaber">
+            <summary>
+            The last selected saber. 
+            </summary>
+        </member>
+        <member name="M:RandomSabers.Plugin.SelectRandomSaber">
+            <summary>
+            This function selects a random saber from <see cref="P:RandomSabers.Settings.EnabledSabers"/> and sets that saber into <see cref="F:CustomSaber.Plugin._currentSaberName"/>. 
+            <para>
+            This can be called at any time, and will only affect the next time a saber is loaded. This will not change the sabers mid-way through a song, for example. 
+            </para>
+            </summary>
+        </member>
+        <member name="T:RandomSabers.Settings">
+            <summary>
+            This class is in charge of the settings for the plugin. You can use it to check if this plugin is enabled, and get which sabers are currently enabled. 
+            </summary>
+        </member>
+        <member name="M:RandomSabers.Settings.IsSaberEnabled(System.String)">
+            <summary>
+            Check whether a saber is enabled. 
+            </summary>
+            <param name="SaberName">The name of the saber (including the ".saber" extension). </param>
+            <returns>True if the saber is enabled, false if it is not, and null if no such saber exists or it was added after the game was launched. </returns>
+        </member>
+        <member name="P:RandomSabers.Settings.Enabled">
+            <summary>
+            Returns true if the mod is enabled in the in-game settings menu. 
+            </summary>
+        </member>
+        <member name="P:RandomSabers.Settings.DisplaySelectedSaber">
+            <summary>
+            Whether the Display Selected Saber option is set to On in the in-fame settings menu. 
+            </summary>
+        </member>
+        <member name="P:RandomSabers.Settings.EnabledSabers">
+            <summary>
+            Returns an array of the paths of all the sabers that are enabled in the in-game expandable menus. When a new saber is added, it is set to enabled by default. 
+            </summary>
+        </member>
+        <member name="T:RandomSabers.SetAllController">
+            <summary>
+            The Settings View Controller for the SetAllSabers option. 
+            </summary>
+        </member>
+        <member name="M:RandomSabers.SetAllController.TextForValue(System.Int32)">
+            <summary>
+            Returns the correct text for each value option. 
+            </summary>
+            <param name="value">The current value.</param>
+        </member>
+    </members>
+</doc>

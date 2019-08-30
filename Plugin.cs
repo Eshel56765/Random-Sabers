@@ -1,64 +1,56 @@
-﻿using IllusionPlugin;
+﻿#define RandomSabers
+using IPA;
 using UnityEngine.SceneManagement;
 using System;
 using System.Linq;
 using System.IO;
 using System.Collections.Generic;
 using System.Diagnostics;
+using SemVer;
 
 namespace RandomSabers
 {
     /// <summary>
     /// This class is in charge of the plugin behavior. 
+    /// <para>
+    /// To check if this plugin is present in other plugins, use the #IF RandomSabers #endif block. 
+    /// </para>
     /// </summary>
-    public class Plugin : IPlugin
+    public class Plugin : IBeatSaberPlugin
     {
-        public string Name => PluginName;
         /// <summary>
         /// The Name of the plugin. Returns "Random Sabers Plugin".
         /// </summary>
         public static string PluginName => "Random Sabers Plugin";
-        public string Version => PluginVersion;
         /// <summary>
         /// The current version of the plugin. 
         /// </summary>
-        public static string PluginVersion => "1.1.6";
+        public static SemVer.Version PluginVersion => new SemVer.Version(1, 2, 0);
+        /// <summary>
+        /// The name of the in-game menu scene. 
+        /// </summary>
+        public const string MenuSceneName = "MenuCore";
+        /// <summary>
+        /// The name of the in-game play scene. 
+        /// </summary>
+        public const string GameSceneName = "GameCore";
 
-        public string MenuSceneName => "MenuCore";
-
-        private static string folderPath = "";
+        private static string folderPath;
 
         /// <summary>
         /// The absolute path to the CustomSabers folder (including "CustomSabers/"). 
         /// </summary>
-        public static string FolderPath
+        public static string SabersFolderPath
         {
             get
             {
-                if ("" == folderPath)
+                if (string.IsNullOrEmpty(folderPath))
                 {
                     string[] children = Directory.GetDirectories(Directory.GetCurrentDirectory());
                     folderPath = children.First(x => x.EndsWith("CustomSabers"));
                     folderPath += "\\";
                 }
                 return folderPath;
-            }
-        }
-
-        private static List<string> allSabers;
-
-        /// <summary>
-        /// Returns an array of all the sabers that were in the folder when the game started, including the absolute path. 
-        /// </summary>
-        public static string[] AllSabers
-        {
-            get
-            {
-                if (null == allSabers)
-                {
-                    allSabers = Directory.GetFiles(FolderPath).ToList();
-                }
-                return allSabers.ToArray();
             }
         }
 
@@ -71,17 +63,39 @@ namespace RandomSabers
         {
             get
             {
-                if (null == allSaberNames)
-                {
-                    int folderPathLength = FolderPath.Length;
-                    allSaberNames = new List<string>();
-                    foreach (string saberPath in AllSabers)
-                    {
-                        allSaberNames.Add(saberPath.Substring(folderPathLength));
-                    }
-                }
+                InitAllSaberNames();
                 return allSaberNames.ToArray();
             }
+        }
+
+        /// <summary>
+        /// The amount of sabers present. 
+        /// </summary>
+        public static int SaberCount
+        {
+            get
+            {
+                InitAllSaberNames();
+                return allSaberNames.Count;
+            }
+        }
+        private static void InitAllSaberNames()
+        {
+            if (null == allSaberNames)
+            {
+                int folderPathLength = SabersFolderPath.Length;
+                allSaberNames = new List<string>();
+                foreach (string saberPath in Directory.EnumerateFiles(SabersFolderPath))
+                {
+                    allSaberNames.Add(Path.GetFileNameWithoutExtension(saberPath));
+                }
+            }
+        }
+
+        internal static string GetSaberName(int Index)
+        {
+            InitAllSaberNames();
+            return allSaberNames[Index];
         }
 
         /// <summary>
@@ -90,10 +104,8 @@ namespace RandomSabers
         public static string LastSelectedSaber { get; private set; } = "";
 
         //int saberIndex = 0;
-        void IPlugin.OnApplicationStart()
+        void IBeatSaberPlugin.OnApplicationStart()
         {
-            SceneManager.activeSceneChanged += SceneManagerOnActiveSceneChanged;
-            SceneManager.sceneLoaded += SceneManager_sceneLoaded;
             Settings.PlayerPrefsSetup();
             Console.WriteLine("---------------------------------------------Random Sabers---------------------------------------------");
             Console.WriteLine("Hey thanks for using my mod! If you're enjoying random sabers, or encounter any issues that you don't encounter without this mod, ");
@@ -103,43 +115,40 @@ namespace RandomSabers
 
 
 
-        private void SceneManagerOnActiveSceneChanged(Scene arg0, Scene arg1)
+        void IBeatSaberPlugin.OnActiveSceneChanged(Scene prevScene, Scene newScene)
         {
-            //Console.WriteLine("Moved from Scene " + arg0.buildIndex +"(" + arg0.name + ") to Scene " + arg1.buildIndex + "(" + arg1.name + "). ");
-
-            if (Settings.Enabled)
-                PrivSelectRandomSaber();
+            /*
+            Console.WriteLine("---------------------------------------------Random Sabers---------------------------------------------");
+            Console.WriteLine("Moved from Scene " + prevScene.buildIndex + "(" + prevScene.name + ") to Scene " + newScene.buildIndex + "(" + newScene.name + "). ");
+            Console.WriteLine("---------------------------------------------Random Sabers---------------------------------------------");
+            */
+            if (newScene.name == MenuSceneName && Settings.Enabled)
+            {
+                PrivSelectRandomSaber(true);
+            }
+            if (newScene.name == GameSceneName && Settings.Enabled && Settings.DisplaySelectedSaber)
+            {
+                SaberNameText.DisplayText(CustomSaber.Plugin._currentSaberName);
+            }
         }
 
         /// <summary>
-        /// This function selects a random saber from <see cref="Settings.EnabledSabers"/> and sets that saber into <see cref="CustomSaber.Plugin._currentSaberPath"/>. 
+        /// This function selects a random saber from <see cref="Settings.EnabledSabers"/> and sets that saber into <see cref="CustomSaber.Plugin._currentSaberName"/>. 
         /// <para>
         /// This can be called at any time, and will only affect the next time a saber is loaded. This will not change the sabers mid-way through a song, for example. 
         /// </para>
         /// </summary>
         public static void SelectRandomSaber()
         {
-            Console.WriteLine("RandomSabers.SelectRandomSaber, called by " + new StackTrace().GetFrame(1).GetMethod().DeclaringType.FullName + ". If the saber selection is giving you trouble, try removing the other mod first. ");
-            string[] enabledSabers = Settings.EnabledSabers;
-            if (0 == enabledSabers.Length)
-            {
-                return;
-            }
-            DateTime now = DateTime.Now;
-            int newSeed = now.Millisecond + now.Second * 1000 + now.Minute * 60000 + now.Hour * 3600000 + now.Day * 86400000;
-            UnityEngine.Random.InitState(newSeed);
-            int SaberIndex;
-            do
-            {
-                SaberIndex = UnityEngine.Random.Range(0, enabledSabers.Length);
-            } while (enabledSabers[SaberIndex] == LastSelectedSaber && enabledSabers.Length < 2);
-            LastSelectedSaber = enabledSabers[SaberIndex];
-            CustomSaber.Plugin._currentSaberPath = LastSelectedSaber;
+            Console.WriteLine("RandomSabers.SelectRandomSaber(), called by " + new StackTrace().GetFrame(1).GetMethod().DeclaringType.FullName + ". If the saber selection is giving you trouble, try removing the other mod first. ");
+            PrivSelectRandomSaber(false);
         }
 
-        private static void PrivSelectRandomSaber()
+        private static void PrivSelectRandomSaber(bool internalCall)
         {
-            Console.WriteLine("---------------------------------------------Random Sabers---------------------------------------------");
+            if (internalCall)
+                Console.WriteLine("---------------------------------------------Random Sabers---------------------------------------------");
+
             string[] enabledSabers = Settings.EnabledSabers;
             Console.WriteLine("Amount of Enabled Sabers: " + enabledSabers.Length);
             if (0 == enabledSabers.Length)
@@ -156,40 +165,35 @@ namespace RandomSabers
                 SaberIndex = UnityEngine.Random.Range(0, enabledSabers.Length);
             } while (enabledSabers[SaberIndex] == LastSelectedSaber && enabledSabers.Length < 2);
             LastSelectedSaber = enabledSabers[SaberIndex];
-            Console.WriteLine("Loading Random Saber #" + SaberIndex + " - " + LastSelectedSaber.Substring(FolderPath.Length));
-            CustomSaber.Plugin._currentSaberPath = LastSelectedSaber;
-            Console.WriteLine("---------------------------------------------Random Sabers---------------------------------------------");
+            Console.WriteLine("Loading Random Saber #" + SaberIndex + ':' + LastSelectedSaber);
+            CustomSaber.Plugin._currentSaberName = LastSelectedSaber;
+            if (internalCall)
+                Console.WriteLine("---------------------------------------------Random Sabers---------------------------------------------");
         }
 
-        private void SceneManager_sceneLoaded(Scene arg0, LoadSceneMode arg1)
+        void IBeatSaberPlugin.OnApplicationQuit()
         {
-            if (arg0.name == MenuSceneName)
+        }
+
+        void IBeatSaberPlugin.OnSceneLoaded(Scene scene, LoadSceneMode sceneMode)
+        {
+            if (scene.name == MenuSceneName)
             {
                 Settings.CreateMenu();
             }
         }
-        
-        void IPlugin.OnApplicationQuit()
-        {
-            SceneManager.activeSceneChanged -= SceneManagerOnActiveSceneChanged;
-            SceneManager.sceneLoaded -= SceneManager_sceneLoaded;
-        }
 
-        void IPlugin.OnLevelWasLoaded(int level)
-        {
-
-        }
-
-        void IPlugin.OnLevelWasInitialized(int level)
+        void IBeatSaberPlugin.OnUpdate()
         {
         }
 
-        void IPlugin.OnUpdate()
+        void IBeatSaberPlugin.OnFixedUpdate()
         {
         }
 
-        void IPlugin.OnFixedUpdate()
+        void IBeatSaberPlugin.OnSceneUnloaded(Scene scene)
         {
         }
     }
 }
+// 

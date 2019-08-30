@@ -153,3 +153,105 @@ C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Templa
 C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Release\IPA.Loader.xml
 C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Release\IPA.Injector.pdb
 C:\Users\Admin\source\repos\Beat Saber Plugin Template1\Beat Saber Plugin Template1\bin\Release\BeatSaberCustomUI.xml
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\Random Sabers.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\Random Sabers.pdb
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\Assembly-CSharp-firstpass.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\Assembly-CSharp.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\BeatSaberCustomUI.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\CustomSaber.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\IPA.Loader.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\Mono.Data.Sqlite.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\Mono.Posix.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\Mono.Security.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\Mono.WebBrowser.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\SemVer.1.2.0.0.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\UnityEngine.AccessibilityModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\UnityEngine.AIModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\UnityEngine.AnimationModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\UnityEngine.ARModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\UnityEngine.AssetBundleModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\UnityEngine.AudioModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\UnityEngine.BaselibModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\UnityEngine.ClothModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\UnityEngine.ClusterInputModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\UnityEngine.ClusterRendererModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\UnityEngine.CoreModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\UnityEngine.CrashReportingModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\UnityEngine.DirectorModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\UnityEngine.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\UnityEngine.GameCenterModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\UnityEngine.GridModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\UnityEngine.HotReloadModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\UnityEngine.ImageConversionModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\UnityEngine.IMGUIModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\UnityEngine.InputModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\UnityEngine.JSONSerializeModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\UnityEngine.Networking.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\UnityEngine.ParticleSystemModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\UnityEngine.PerformanceReportingModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\UnityEngine.Physics2DModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\UnityEngine.PhysicsModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\UnityEngine.ScreenCaptureModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\UnityEngine.SharedInternalsModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\UnityEngine.SpatialTracking.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\UnityEngine.SpriteMaskModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\UnityEngine.SpriteShapeModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\UnityEngine.StyleSheetsModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\UnityEngine.SubstanceModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\UnityEngine.TerrainModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\UnityEngine.TerrainPhysicsModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\UnityEngine.TestRunner.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\UnityEngine.TextRenderingModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\UnityEngine.TilemapModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\UnityEngine.Timeline.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\UnityEngine.TimelineModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\UnityEngine.TLSModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\UnityEngine.UI.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\UnityEngine.UIElementsModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\UnityEngine.UIModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\UnityEngine.UmbraModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\UnityEngine.UNETModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\UnityEngine.UnityAnalyticsModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\UnityEngine.UnityConnectModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\UnityEngine.UnityWebRequestAssetBundleModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\UnityEngine.UnityWebRequestAudioModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\UnityEngine.UnityWebRequestModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\UnityEngine.UnityWebRequestTextureModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\UnityEngine.UnityWebRequestWWWModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\UnityEngine.VehiclesModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\UnityEngine.VideoModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\UnityEngine.VRModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\UnityEngine.WindModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\UnityEngine.XRModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\Zenject.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\Unity.TextMeshPro.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\Oculus.VR.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\Zenject-usage.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\Polyglot.Scripts.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\VivaDock.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\Unity.Analytics.DataPrivacy.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\IPA.Injector.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\Ookii.Dialogs.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\BS_Utils.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\CustomColors.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\UnityEngine.LocalizationModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\UnityEngine.StreamingModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\UnityEngine.VFXModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\UnityEngine.TextCoreModule.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\nunit.framework.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\BeatSaberCustomUI.xml
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\IllusionInjector.pdb
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\IllusionPlugin.pdb
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\IllusionPlugin.xml
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\IPA.Loader.pdb
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\IPA.Loader.xml
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\UnityEngine.CloudWebServicesModule.xml
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\UnityEngine.FacebookModule.xml
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\UnityEngine.ParticlesLegacyModule.xml
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\IPA.Injector.pdb
+D:\dev\Beat Saber Mods\Random Sabers\obj\Release\Random Sabers.csprojAssemblyReference.cache
+D:\dev\Beat Saber Mods\Random Sabers\obj\Release\Random Sabers.csproj.CoreCompileInputs.cache
+D:\dev\Beat Saber Mods\Random Sabers\obj\Release\Random Sabers.csproj.CopyComplete
+D:\dev\Beat Saber Mods\Random Sabers\obj\Release\Random Sabers.dll
+D:\dev\Beat Saber Mods\Random Sabers\obj\Release\Random Sabers.pdb
+D:\dev\Beat Saber Mods\Random Sabers\bin\Release\Random Sabers.xml

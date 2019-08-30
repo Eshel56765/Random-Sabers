@@ -1,0 +1,20 @@
+﻿{
+  "$schema": "https://raw.githubusercontent.com/beat-saber-modding-group/BSIPA-MetadataFileSchema/master/Schema.json",
+  "author": "Eshleb",
+  "description": "Enabes randomally selecting a saber at the start of every song.",
+  "features": [
+  ],
+  "gameVersion": "1.3.0",
+  "icons": [],
+  "id": "RandomSabers",
+  "links": {
+    "project-home": "https://github.com/Eshel56765/Random-Sabers",
+    "project-source": "https://github.com/Eshel56765/Random-Sabers"
+  },
+  "name": "Random Sabers Mod",
+  "version": "1.2.0",
+  "dependsOn": {
+    "Custom Sabers 3.1.1": "true",
+    "CustomUI 1.6.0": "true"
+  }
+}

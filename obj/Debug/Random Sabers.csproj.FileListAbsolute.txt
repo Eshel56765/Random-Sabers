@@ -234,69 +234,16 @@ D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\IllusionPlugin.pdb
 D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\IllusionPlugin.xml
 D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\IPA.Loader.pdb
 D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\IPA.Loader.xml
-D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.xml
-D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.AccessibilityModule.xml
-D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.AIModule.xml
-D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.AnimationModule.xml
-D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.ARModule.xml
-D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.AssetBundleModule.xml
-D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.AudioModule.xml
-D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.BaselibModule.xml
-D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.ClothModule.xml
 D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.CloudWebServicesModule.xml
-D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.ClusterInputModule.xml
-D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.ClusterRendererModule.xml
-D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.CoreModule.xml
-D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.CrashReportingModule.xml
-D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.DirectorModule.xml
 D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.FacebookModule.xml
-D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.GameCenterModule.xml
-D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.GridModule.xml
-D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.HotReloadModule.xml
-D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.ImageConversionModule.xml
-D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.IMGUIModule.xml
-D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.InputModule.xml
-D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.JSONSerializeModule.xml
 D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
-D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.ParticleSystemModule.xml
-D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.PerformanceReportingModule.xml
-D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.Physics2DModule.xml
-D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.PhysicsModule.xml
-D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.ScreenCaptureModule.xml
-D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.SharedInternalsModule.xml
-D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.SpriteMaskModule.xml
-D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.SpriteShapeModule.xml
-D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.StyleSheetsModule.xml
-D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.SubstanceModule.xml
-D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.TerrainModule.xml
-D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
-D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.TextRenderingModule.xml
-D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.TilemapModule.xml
-D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.TimelineModule.xml
-D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.TLSModule.xml
-D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.UIElementsModule.xml
-D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.UIModule.xml
-D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.UmbraModule.xml
-D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.UNETModule.xml
-D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
-D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.UnityConnectModule.xml
-D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
-D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
-D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.UnityWebRequestModule.xml
-D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
-D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
-D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.VehiclesModule.xml
-D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.VideoModule.xml
-D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.VRModule.xml
-D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.WindModule.xml
-D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.XRModule.xml
 D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\IPA.Injector.pdb
-D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.LocalizationModule.xml
-D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.StreamingModule.xml
-D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.VFXModule.xml
-D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\UnityEngine.TextCoreModule.xml
 D:\dev\Beat Saber Mods\Random Sabers\obj\Debug\Random Sabers.csprojAssemblyReference.cache
 D:\dev\Beat Saber Mods\Random Sabers\obj\Debug\Random Sabers.csproj.CoreCompileInputs.cache
 D:\dev\Beat Saber Mods\Random Sabers\obj\Debug\Random Sabers.csproj.CopyComplete
 D:\dev\Beat Saber Mods\Random Sabers\obj\Debug\Random Sabers.dll
 D:\dev\Beat Saber Mods\Random Sabers\obj\Debug\Random Sabers.pdb
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\VivaDock.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\Unity.Analytics.DataPrivacy.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\BS_Utils.dll
+D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\Random Sabers.xml
