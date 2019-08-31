@@ -247,3 +247,44 @@ D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\VivaDock.dll
 D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\Unity.Analytics.DataPrivacy.dll
 D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\BS_Utils.dll
 D:\dev\Beat Saber Mods\Random Sabers\bin\Debug\Random Sabers.xml
+C:\Users\Aurora\Documents\GitHub\Random-Sabers\obj\Debug\Random Sabers.csprojAssemblyReference.cache
+C:\Users\Aurora\Documents\GitHub\Random-Sabers\obj\Debug\Random Sabers.csproj.CoreCompileInputs.cache
+C:\Users\Aurora\Documents\GitHub\Random-Sabers\bin\Debug\Random Sabers.xml
+C:\Users\Aurora\Documents\GitHub\Random-Sabers\bin\Debug\Random Sabers.dll
+C:\Users\Aurora\Documents\GitHub\Random-Sabers\bin\Debug\Random Sabers.pdb
+C:\Users\Aurora\Documents\GitHub\Random-Sabers\bin\Debug\0Harmony.1.2.0.1.dll
+C:\Users\Aurora\Documents\GitHub\Random-Sabers\bin\Debug\Assembly-CSharp.dll
+C:\Users\Aurora\Documents\GitHub\Random-Sabers\bin\Debug\BeatSaberCustomUI.dll
+C:\Users\Aurora\Documents\GitHub\Random-Sabers\bin\Debug\BSML.dll
+C:\Users\Aurora\Documents\GitHub\Random-Sabers\bin\Debug\BS_Utils.dll
+C:\Users\Aurora\Documents\GitHub\Random-Sabers\bin\Debug\CustomSaber.dll
+C:\Users\Aurora\Documents\GitHub\Random-Sabers\bin\Debug\IPA.Loader.dll
+C:\Users\Aurora\Documents\GitHub\Random-Sabers\bin\Debug\SemVer.1.2.0.0.dll
+C:\Users\Aurora\Documents\GitHub\Random-Sabers\bin\Debug\StreamCore.dll
+C:\Users\Aurora\Documents\GitHub\Random-Sabers\bin\Debug\Unity.TextMeshPro.dll
+C:\Users\Aurora\Documents\GitHub\Random-Sabers\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Aurora\Documents\GitHub\Random-Sabers\bin\Debug\UnityEngine.dll
+C:\Users\Aurora\Documents\GitHub\Random-Sabers\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\Aurora\Documents\GitHub\Random-Sabers\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\Aurora\Documents\GitHub\Random-Sabers\bin\Debug\UnityEngine.UI.dll
+C:\Users\Aurora\Documents\GitHub\Random-Sabers\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\Aurora\Documents\GitHub\Random-Sabers\bin\Debug\Zenject.dll
+C:\Users\Aurora\Documents\GitHub\Random-Sabers\bin\Debug\Oculus.VR.dll
+C:\Users\Aurora\Documents\GitHub\Random-Sabers\bin\Debug\Zenject-usage.dll
+C:\Users\Aurora\Documents\GitHub\Random-Sabers\bin\Debug\Polyglot.Scripts.dll
+C:\Users\Aurora\Documents\GitHub\Random-Sabers\bin\Debug\VivaDock.dll
+C:\Users\Aurora\Documents\GitHub\Random-Sabers\bin\Debug\Unity.Analytics.DataPrivacy.dll
+C:\Users\Aurora\Documents\GitHub\Random-Sabers\bin\Debug\IPA.Injector.dll
+C:\Users\Aurora\Documents\GitHub\Random-Sabers\bin\Debug\UnityEngine.TextCoreModule.dll
+C:\Users\Aurora\Documents\GitHub\Random-Sabers\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Users\Aurora\Documents\GitHub\Random-Sabers\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Users\Aurora\Documents\GitHub\Random-Sabers\bin\Debug\UnityEngine.VFXModule.dll
+C:\Users\Aurora\Documents\GitHub\Random-Sabers\bin\Debug\Ookii.Dialogs.dll
+C:\Users\Aurora\Documents\GitHub\Random-Sabers\bin\Debug\BeatSaberCustomUI.xml
+C:\Users\Aurora\Documents\GitHub\Random-Sabers\bin\Debug\IPA.Loader.pdb
+C:\Users\Aurora\Documents\GitHub\Random-Sabers\bin\Debug\IPA.Loader.xml
+C:\Users\Aurora\Documents\GitHub\Random-Sabers\bin\Debug\StreamCore.xml
+C:\Users\Aurora\Documents\GitHub\Random-Sabers\bin\Debug\IPA.Injector.pdb
+C:\Users\Aurora\Documents\GitHub\Random-Sabers\obj\Debug\Random Sabers.csproj.CopyComplete
+C:\Users\Aurora\Documents\GitHub\Random-Sabers\obj\Debug\Random Sabers.dll
+C:\Users\Aurora\Documents\GitHub\Random-Sabers\obj\Debug\Random Sabers.pdb

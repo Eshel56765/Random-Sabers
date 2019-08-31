@@ -14,7 +14,7 @@
   "name": "Random Sabers Mod",
   "version": "1.2.0",
   "dependsOn": {
-    "Custom Sabers 3.1.1": "true",
-    "CustomUI 1.6.0": "true"
+    "Custom Sabers": "^3.1.1",
+    "CustomUI": "^1.6.0"
   }
 }
