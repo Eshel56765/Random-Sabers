@@ -8,5 +8,5 @@ Enables random saber selection at the start of every song!
   + The default value for sabers is *true*. This means that without touching the submenus, all existing sabers are in the pool, and new sabers are automatically enabled as well. Sabers that are deleted and redownloaded will keep their previous value.  
 - In-game setting -> Random Sabers -> **Set all sabers to** *(Default is [Do nothing])*: This control has three options: 
    - **[Do nothing]**: Keeping it at do nothing will not affect your pool. 
-   - **Enable all**: Setting this control to "Enable all" or and hitting "Apply" or "OK" will set every existing saber to *enabled* in your selection pool. 
-   -  **Disable all**:  Setting this control to "Enable all" or and hitting "Apply" or "OK" will set every existing saber to *disabled* in your selection pool. 
+   - **Enable all**: Setting this control to "Enable all" and hitting "Apply" or "OK" will set every existing saber to *enabled* in your selection pool. 
+   -  **Disable all**:  Setting this control to "Disable all" and hitting "Apply" or "OK" will set every existing saber to *disabled* in your selection pool. 
